@@ -14,7 +14,7 @@
     "cors": "^2.8.5",
     "create-react-app": "^1.5.2",
     "express": "^4.17.1",
-    "express-jwt": "^5.3.1",
+    "express-jwt": "^8.2.0",
     "jwt-simple": "^0.5.1",
     "mongoose": "^5.0.7",
     "password-hash": "^1.2.2",
